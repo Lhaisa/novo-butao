@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+
+}
+
+button{
+ --glow-color: rgb(217, 176, 255):
+ 
+}
